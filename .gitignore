@@ -1,0 +1,27 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build output
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# VS Code settings
+.vscode/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# MacOS specific (ignore even on Windows)
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Other
+*.log
