@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/901bebf1-acd8-40e7-abb7-0d1807b94d21)# 📳 Shake to Change Quote App
+# 📳 Shake to Change Quote App
 
 A Flutter-based mobile application that displays a new motivational quote each time the user shakes their device. The app is designed with a clean UI, smooth transitions, and utilizes the device's accelerometer for interactive functionality.
 
